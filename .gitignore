@@ -1,1 +1,3 @@
 models/finetunedmodel
+squad/dev-v2.0.json
+squad/train-v2.0.json
